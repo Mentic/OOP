@@ -1,28 +1,47 @@
+#include <cstdio>
 #include <iostream>
 using namespace std;
-// TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+ char text[100];
+char copie[100][100];
+
+
 int main() {
 
-    int v[5]= {6 ,3 ,8 ,5, 9};
-    int ultim = 4;
-    while (ultim > 0)
-    {
-        int n = ultim-1;
-        ultim=0;
-        for (int i = 0; i <= n; i++) {
-            if (v[i]>v[i+1]) {
-                swap(v[i], v[i+1]);
-                ultim = i;
-            }
+    scanf(" %99[^\n]", text);
+    int i=0;
+    int k=0;
+    int j=0;
+    int words = 0;
+    for (i=0;i<strlen(text);i++) {
 
+        if (text[i]==' ') {
+                j++;
+                k=0;
+                words++;
+        }else {
+            copie[j][k]=text[i];
+            k++;
         }
-
-    }
-    for (int i = 0; i < 5; i++) {
-        int
     }
 
+    for (int i = 0; i<=words;i++)
+        {
+        int ultim = words-1;
+        while (ultim > 0)
+            {
+             int n = ultim - 1;
+             ultim = 0;
+            for (j=0;j<=words;j++) {
+                if (strlen(copie[j])<strlen(copie[j+1])) {
+                    swap(copie[j], copie[j+1]);
+                    ultim = j;
+                }
+            }
+        }
+    }
+    for (int i = 0; i<=words;i++) {
+        cout<<copie[i]<<endl;
+    }
 
     return 0;
-    // TIP See CLion help at <a href="https://www.jetbrains.com/help/clion/">jetbrains.com/help/clion/</a>. Also, you can try interactive lessons for CLion by selecting 'Help | Learn IDE Features' from the main menu.
 }
