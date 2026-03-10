@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab3_tema/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab3_tema.dir/main.cpp.o -c /Users/andreivacariu/CLionProjects/lab3_tema/main.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab3_tema/main.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab3_tema/cmake-build-debug/CMakeFiles/lab3_tema.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab3_tema/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab3_tema.dir/Math.cpp.o -c /Users/andreivacariu/CLionProjects/lab3_tema/Math.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab3_tema/Math.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab3_tema/cmake-build-debug/CMakeFiles/lab3_tema.dir/Math.cpp.o"
+}
+]
