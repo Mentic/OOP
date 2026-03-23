@@ -1,3 +1,0 @@
-/Users/andreivacariu/CLionProjects/lab5_tema/cmake-build-debug/CMakeFiles/lab5_tema.dir
-/Users/andreivacariu/CLionProjects/lab5_tema/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/andreivacariu/CLionProjects/lab5_tema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
