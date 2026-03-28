@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab6.dir/main.cpp.o -c /Users/andreivacariu/CLionProjects/lab6/main.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab6/main.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug/CMakeFiles/lab6.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab6.dir/Weather.cpp.o -c /Users/andreivacariu/CLionProjects/lab6/Weather.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab6/Weather.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug/CMakeFiles/lab6.dir/Weather.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab6.dir/Car.cpp.o -c /Users/andreivacariu/CLionProjects/lab6/Car.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab6/Car.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug/CMakeFiles/lab6.dir/Car.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab6.dir/Volvo.cpp.o -c /Users/andreivacariu/CLionProjects/lab6/Volvo.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab6/Volvo.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug/CMakeFiles/lab6.dir/Volvo.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab6.dir/Bmw.cpp.o -c /Users/andreivacariu/CLionProjects/lab6/Bmw.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab6/Bmw.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug/CMakeFiles/lab6.dir/Bmw.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab6.dir/Circuit.cpp.o -c /Users/andreivacariu/CLionProjects/lab6/Circuit.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab6/Circuit.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug/CMakeFiles/lab6.dir/Circuit.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab6.dir/Seat.cpp.o -c /Users/andreivacariu/CLionProjects/lab6/Seat.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab6/Seat.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug/CMakeFiles/lab6.dir/Seat.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab6.dir/Fiat.cpp.o -c /Users/andreivacariu/CLionProjects/lab6/Fiat.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab6/Fiat.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug/CMakeFiles/lab6.dir/Fiat.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab6.dir/RangeRover.cpp.o -c /Users/andreivacariu/CLionProjects/lab6/RangeRover.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab6/RangeRover.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab6/cmake-build-debug/CMakeFiles/lab6.dir/RangeRover.cpp.o"
+}
+]
