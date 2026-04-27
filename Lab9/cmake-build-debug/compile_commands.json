@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/andreivacariu/CLionProjects/Lab9/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/Lab9.dir/main.cpp.o -c /Users/andreivacariu/CLionProjects/Lab9/main.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/Lab9/main.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/Lab9/cmake-build-debug/CMakeFiles/Lab9.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/andreivacariu/CLionProjects/Lab9/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/Lab9.dir/Map.cpp.o -c /Users/andreivacariu/CLionProjects/Lab9/Map.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/Lab9/Map.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/Lab9/cmake-build-debug/CMakeFiles/Lab9.dir/Map.cpp.o"
+}
+]
