@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/andreivacariu/CLionProjects/lab10/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/lab10.dir/main.cpp.o -c /Users/andreivacariu/CLionProjects/lab10/main.cpp",
+  "file": "/Users/andreivacariu/CLionProjects/lab10/main.cpp",
+  "output": "/Users/andreivacariu/CLionProjects/lab10/cmake-build-debug/CMakeFiles/lab10.dir/main.cpp.o"
+}
+]
